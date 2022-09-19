@@ -11,3 +11,8 @@
 
 - [ ] todo  list
 - [x] done
+
+
+```python
+s = "Python Syntax Hightlighting"
+print (s)

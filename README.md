@@ -16,3 +16,9 @@
 ```python
 s = "Python Syntax Hightlighting"
 print (s)
+```
+
+```javascript
+var s = "JavaScript Syntax Hightlighting";
+alert(s);
+```
